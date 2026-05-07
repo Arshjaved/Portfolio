@@ -51,7 +51,7 @@ export default function LandingHero() {
                 Arshiyan Javed
               </h1>
               <span className="text-xl font-semibold text-zinc-900 dark:text-zinc-100 md:text-3xl">
-                Full Stack Developer | React, Next.js & Headless CMS
+                Full Stack Developer | React, Next.js, Node.js & Headless CMS
               </span>
             </FadeUp>
             <FadeUp key="description" duration={0.6} delay={0.2}>
