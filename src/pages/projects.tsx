@@ -8,18 +8,18 @@ export default function Projects() {
   return (
     <>
       <NextSeo
-        title="Projects by Arshiyan Javed - Full Stack Developer Portfolio"
-        description="Explore a collection of projects by Arshiyan Javed across Real Estate, Transportation, Fintech, Healthcare, Sport/Betting/Gaming, Food/Hospitality, IT/Tech Consulting and Social/Dating/VR consumer apps."
+        title="Projects by Courtney Wilson - Full Stack Developer Portfolio"
+        description="Explore a collection of projects by Courtney Wilson across Real Estate, Transportation, Fintech, Healthcare, Sport/Betting/Gaming, Food/Hospitality, IT/Tech Consulting and Social/Dating/VR consumer apps."
         canonical={`${siteMetadata.siteUrl}/projects`}
         openGraph={{
           url: `${siteMetadata.siteUrl}/projects`,
-          title: "Discover Projects by Arshiyan Javed - Full Stack Developer",
+          title: "Discover Projects by Courtney Wilson - Full Stack Developer",
           description:
-            "Explore a showcase of projects crafted by Arshiyan Javed, a Full Stack Developer focused on React, Next.js and headless CMS. Production-grade applications across multiple industries.",
+            "Explore a showcase of projects crafted by Courtney Wilson, a Full Stack Developer focused on React, Next.js and headless CMS. Production-grade applications across multiple industries.",
           images: [
             {
               url: `${siteMetadata.siteUrl}${siteMetadata.twitterImage}`,
-              alt: "Arshiyan Javed - Portfolio Image",
+              alt: "Courtney Wilson - Portfolio Image",
             },
           ],
           siteName: siteMetadata.siteName,
@@ -32,7 +32,7 @@ export default function Projects() {
           {
             property: "keywords",
             content:
-              "Projects, Arshiyan Javed Portfolio, Full Stack Developer, React, Next.js, Headless CMS, Node.js, NestJS, Contentful, Sanity, Strapi, AWS, Azure, GCP, Real Estate, Fintech, Healthcare, Betting, Gaming, Food, IT Consulting, VR",
+              "Projects, Courtney Wilson Portfolio, Full Stack Developer, React, Next.js, Headless CMS, Node.js, NestJS, Contentful, Sanity, Strapi, AWS, Azure, GCP, Real Estate, Fintech, Healthcare, Betting, Gaming, Food, IT Consulting, VR",
           },
         ]}
       />
