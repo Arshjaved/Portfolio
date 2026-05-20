@@ -24,7 +24,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="flex w-full flex-col items-center justify-center gap-8 text-center lg:mx-auto lg:max-w-7xl">
-        <span className="text-foreground">©2026 Arshiyan Javed</span>
+        <span className="text-foreground">©2026 Courtney Wilson</span>
       </div>
     </footer>
   );
