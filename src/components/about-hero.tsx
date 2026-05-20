@@ -67,7 +67,7 @@ export default function AboutHero() {
               />
             </div>
             <span className="text-lg font-medium text-foreground">
-              Genoa, Italy
+              Covington,GA
             </span>
           </FadeRight>
         </AnimatePresence>
