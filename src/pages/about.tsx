@@ -38,7 +38,6 @@ export default function About() {
           },
         ]}
       />
-      <AboutHero />
       <ExperienceShowcaseList title="Experience" details={EXPERIENCE} />
       <ExperienceShowcaseList title="Education" details={EDUCATION} />
     </>
