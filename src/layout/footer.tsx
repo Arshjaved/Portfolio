@@ -15,7 +15,7 @@ export default function Footer() {
           target="_blank"
           className="mb-6 cursor-pointer text-center text-2xl font-bold underline sm:text-4xl lg:text-6xl"
         >
-          <span>ArshiyanJ110@</span>
+          <span>Courtney1332@</span>
           <br />
           <span>outlook.com</span>
         </a>
