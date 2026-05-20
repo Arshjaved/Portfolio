@@ -13,19 +13,19 @@ export default function Home() {
   return (
     <>
       <NextSeo
-        title="Arshiyan Javed | Full Stack Developer | React, Next.js & Headless CMS"
-        description="Explore the professional portfolio of Arshiyan Javed, a Full Stack Developer specializing in React, Next.js, Node.js, NestJS and headless CMS (Contentful, Sanity, Strapi). Scalable web applications and cloud-native delivery on AWS, Azure and GCP."
+        title="Courtney Wilson | Full Stack Developer | React, Next.js & Headless CMS"
+        description="Explore the professional portfolio of Courtney Wilson, a Full Stack Developer specializing in React, Next.js, Node.js, NestJS and headless CMS (Contentful, Sanity, Strapi). Scalable web applications and cloud-native delivery on AWS, Azure and GCP."
         canonical={siteMetadata.siteUrl}
         openGraph={{
           url: siteMetadata.siteUrl,
           title:
-            "Arshiyan Javed - Full Stack Developer | React, Next.js & Headless CMS",
+            "Courtney Wilson - Full Stack Developer | React, Next.js & Headless CMS",
           description:
             "Full Stack Developer building scalable applications with React, Next.js, Node.js, NestJS, headless CMS workflows, APIs, microservices and cloud deployment on AWS, Azure and GCP.",
           images: [
             {
               url: `${siteMetadata.siteUrl}${siteMetadata.twitterImage}`,
-              alt: "Arshiyan Javed - Portfolio Image",
+              alt: "Courtney Wilson - Portfolio Image",
             },
           ],
           siteName: siteMetadata.siteName,
