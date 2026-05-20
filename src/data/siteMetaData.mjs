@@ -1,7 +1,7 @@
 export const siteMetadata = {
-  title: "Arshiyan Javed portfolio",
-  author: "Arshiyan Javed",
-  headerTitle: "Arshiyan Javed",
+  title: "Courtney Wilson portfolio",
+  author: "Courtney Wilson",
+  headerTitle: "Courtney Wilson",
   description: "Full Stack Developer | React, Next.js, Node.js & Headless CMS",
   language: "en-us",
   theme: "light",
